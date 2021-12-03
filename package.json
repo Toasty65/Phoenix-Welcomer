@@ -2,6 +2,9 @@
   "name": "discord-bot-template",
   "version": "1.0.0",
   "description": "A template build for Discord Bots",
+  "engines": {
+    "node": "16.x"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
